@@ -1,0 +1,21 @@
+{ 
+
+  "name": "ㄴㄱㄴㄴ", 
+
+  "short_name": "ㄴㄱㄴㄴ", 
+
+  "start_url": "http://ngnnkorea.netlify.app", 
+
+  "display": "standalone", 
+
+  "icons": [{ 
+
+    "src": "images/logo.png", 
+
+    "sizes": "512x512", 
+
+    "type": "image/png" 
+
+  }] 
+
+}
